@@ -1,8 +1,8 @@
 <template>
-    <header class="py-4 bg-white border-b border-slate-200 sticky top-0">
+    <header class="px-4 py-6 bg-white border-b border-slate-200 fixed top-0 left-0 right-0">
         <div class="container mx-auto flex justify-between">
-            <h1>interview</h1>
-            <p>สั่งซื้อล่วงหน้า iPhone 12</p>
+            <h1 class="font-bold text-lime-500 text-2xl">interview</h1>
+            <p class="font-medium">สั่งซื้อล่วงหน้า iPhone 12</p>
         </div>
     </header>
 </template>
